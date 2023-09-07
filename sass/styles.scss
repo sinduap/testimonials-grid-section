@@ -165,7 +165,7 @@ body {
     }
 
     &__card:nth-child(3) {
-      grid-column: span 2;
+      grid-column: 3 / 5;
     }
 
     &__card:nth-child(4) {
